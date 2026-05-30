@@ -91,11 +91,12 @@ public class GlitcherAgent {
 
 <div align="center">
 
-[![Playground](https://github-readme-stats.vercel.app/api/pin/?username=glitcher-agent&repo=Playground&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&icon_color=06b6d4)](https://github.com/glitcher-agent/Playground)
-[![Hackerrank](https://github-readme-stats.vercel.app/api/pin/?username=glitcher-agent&repo=Hackerrank&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&icon_color=06b6d4)](https://github.com/glitcher-agent/Hackerrank)
-[![MovieReviews](https://github-readme-stats.vercel.app/api/pin/?username=glitcher-agent&repo=MovieReviews&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&icon_color=06b6d4)](https://github.com/glitcher-agent/MovieReviews)
-[![Data-Science-TSF](https://github-readme-stats.vercel.app/api/pin/?username=glitcher-agent&repo=Data-Science-TSF&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&icon_color=06b6d4)](https://github.com/glitcher-agent/Data-Science-TSF)
-
+| Repo | Description | Lang |
+|------|-------------|------|
+| [Playground](https://github.com/glitcher-agent/Playground) | Java Full Stack Program | ☕ Java |
+| [Hackerrank](https://github.com/glitcher-agent/Hackerrank) | Problem solutions | ☕ Java |
+| [MovieReviews](https://github.com/glitcher-agent/MovieReviews) | Flutter movie app | 🐦 Dart |
+| [Data-Science-TSF](https://github.com/glitcher-agent/Data-Science-TSF) | Data Science internship | 🐍 Python |
 </div>
 
 ---
