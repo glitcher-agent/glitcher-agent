@@ -70,11 +70,8 @@ public class GlitcherAgent {
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-![glitcher-agent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glitcher-agent&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4&text_color=e2e8f0&count_private=true)
-
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glitcher-agent&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&langs_count=6)
+![Stats](https://raw.githubusercontent.com/glitcher-agent/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Languages](https://raw.githubusercontent.com/glitcher-agent/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
