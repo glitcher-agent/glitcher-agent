@@ -74,7 +74,6 @@ public class GlitcherAgent {
 ![Languages](https://raw.githubusercontent.com/glitcher-agent/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
-
 <!-- Streak stats -->
 <div align="center">
 
