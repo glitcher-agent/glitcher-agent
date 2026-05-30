@@ -70,8 +70,10 @@ public class GlitcherAgent {
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/glitcher-agent/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Languages](https://raw.githubusercontent.com/glitcher-agent/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Repos](https://img.shields.io/badge/Repos-17-7c3aed?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/Main%20Lang-Java-f59e0b?style=for-the-badge&logo=openjdk)
+![Achievements](https://img.shields.io/badge/Achievements-4-06b6d4?style=for-the-badge&logo=github)
+![YOLO](https://img.shields.io/badge/YOLO%20Merges-yes-ef4444?style=for-the-badge)
 
 </div>
 <!-- Streak stats -->
