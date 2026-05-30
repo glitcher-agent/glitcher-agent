@@ -9,7 +9,12 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/glitcher-agent?style=flat-square&color=f59e0b&labelColor=0a0a0f&label=Total+Stars)](https://github.com/glitcher-agent)
 
 </div>
+<div align="center">
 
+![Snake dark](https://raw.githubusercontent.com/glitcher-agent/glitcher-agent/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/glitcher-agent/glitcher-agent/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 ---
 
 ## `> whoami`
